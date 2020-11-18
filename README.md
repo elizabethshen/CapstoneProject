@@ -4,7 +4,7 @@
 # Introduction
 To explore and cluster the neighborhoods in Toronto.
 
-<em>This "Segmenting and Clustering Neighborhoods in Toronto" project is project from IBM Data Science Professional Certificate/
+<em>This "Segmenting and Clustering Neighborhoods in Toronto" project is a project from IBM Data Science Professional Certificate/
 Application Data Science Capstone course.</em>
 # Methodology
 
